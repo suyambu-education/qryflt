@@ -10,4 +10,4 @@
 # style list 
 ![Alt text](https://github.com/arunsakthivel96/qryflt/blob/master/images/btn-sample.PNG?raw=true "Button Style Sample [Dev] * ")
 
-#website : arunsakthivel96.github.io
+# website : https://arunsakthivel96.github.io
